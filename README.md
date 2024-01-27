@@ -1,4 +1,4 @@
-# 3rd1
+# meituan-ee
 商户标签关系挖掘
 models:所用bert/bert-cnn/bert-rnn模型参数设置
 train_eval.py:定义了训练、测试函数
